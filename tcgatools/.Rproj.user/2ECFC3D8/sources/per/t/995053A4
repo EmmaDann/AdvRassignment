@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519391959468.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3012251725",
+    "id" : "995053A4",
+    "lastKnownWriteTime" : 1519941915,
+    "last_content_update" : 1519941915622,
+    "path" : "~/advancedR/tcgatools/R/tcgatools.r",
+    "project_path" : "R/tcgatools.r",
+    "properties" : {
+        "cursorPosition" : "79,17",
+        "scrollLine" : "73"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
